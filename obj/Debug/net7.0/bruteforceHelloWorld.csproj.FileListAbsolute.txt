@@ -1,0 +1,14 @@
+D:\Nuvem\bruteforceHelloWorld\bin\Debug\net7.0\bruteforceHelloWorld.exe
+D:\Nuvem\bruteforceHelloWorld\bin\Debug\net7.0\bruteforceHelloWorld.deps.json
+D:\Nuvem\bruteforceHelloWorld\bin\Debug\net7.0\bruteforceHelloWorld.runtimeconfig.json
+D:\Nuvem\bruteforceHelloWorld\bin\Debug\net7.0\bruteforceHelloWorld.dll
+D:\Nuvem\bruteforceHelloWorld\bin\Debug\net7.0\bruteforceHelloWorld.pdb
+D:\Nuvem\bruteforceHelloWorld\obj\Debug\net7.0\bruteforceHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nuvem\bruteforceHelloWorld\obj\Debug\net7.0\bruteforceHelloWorld.AssemblyInfoInputs.cache
+D:\Nuvem\bruteforceHelloWorld\obj\Debug\net7.0\bruteforceHelloWorld.AssemblyInfo.cs
+D:\Nuvem\bruteforceHelloWorld\obj\Debug\net7.0\bruteforceHelloWorld.csproj.CoreCompileInputs.cache
+D:\Nuvem\bruteforceHelloWorld\obj\Debug\net7.0\bruteforceHelloWorld.dll
+D:\Nuvem\bruteforceHelloWorld\obj\Debug\net7.0\refint\bruteforceHelloWorld.dll
+D:\Nuvem\bruteforceHelloWorld\obj\Debug\net7.0\bruteforceHelloWorld.pdb
+D:\Nuvem\bruteforceHelloWorld\obj\Debug\net7.0\bruteforceHelloWorld.genruntimeconfig.cache
+D:\Nuvem\bruteforceHelloWorld\obj\Debug\net7.0\ref\bruteforceHelloWorld.dll
