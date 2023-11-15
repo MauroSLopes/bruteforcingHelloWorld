@@ -2,17 +2,17 @@
 int waitTimer = 20;
 
 // Text to be brute forced
-string mensage = "hello world!?!";
+string mensage = "Hello World!!";
 
 // Result mensage
 string currentMensage = "";
 
 // Alphabet array
-char[] alphabet = new char[] {'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r',
-'s','t','u','v','w','x','y','z', ' ', '.', ',',';',':','!','?'};
+char[] alphabet = new char[] {' ','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r',
+'s','t','u','v','w','x','y','z', '.', ',',';',':','!','?'};
 
 // Repeat for each letter in the text
-foreach(char c in mensage){
+foreach(char c in mensage.ToLower()){
 
     // Look for letter in the alphabet array
     for (int i = 0; i < alphabet.Length; i++)
